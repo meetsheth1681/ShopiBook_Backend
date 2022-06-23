@@ -1,0 +1,15 @@
+E:\TatvaSoft\FinalBookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+E:\TatvaSoft\FinalBookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+E:\TatvaSoft\FinalBookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\refint\BookStore.Models.dll
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+E:\TatvaSoft\FinalBookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+E:\TatvaSoft\FinalBookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+E:\TatvaSoft\FinalBookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
